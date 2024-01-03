@@ -8,9 +8,7 @@ The integration of a Logic App with Threat Protection involves configuring trigg
  In this lab, you will perform the following:
  - Task 1: Create an Azure logic app
  - Task 2: Design Your Logic App Workflow
- - Task 3: Create a Search
- - Task 4: Explore Notebooks
- 
+ - 
 ## Estimated timing: 60 minutes
 
 ## Architecture Diagram
