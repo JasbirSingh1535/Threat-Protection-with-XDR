@@ -33,7 +33,7 @@ The integration of a Logic App with Threat Protection involves configuring trigg
 
 ### Task 2: Integrate logic app with Microsoft Defender for Cloud for threat notification.
 
-1. Select the Logic app **PostMessageTeams-OnIncident**.
+1. Select the Logic app **PostMessageTeams-OnIncident** to configure the workflow where we will set trigger event and proceeding action.
    
 ![](./media/la1.png)
 
