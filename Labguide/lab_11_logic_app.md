@@ -41,7 +41,7 @@ The integration of a Logic App with Threat Protection involves configuring trigg
 
 ![](./media/la2.png)
 
-3.Click on **Continue** to edit the trigger settings.
+3.Click on **Continue** to edit the workflow settings.
 
 ![](./media/la3.png)
 
