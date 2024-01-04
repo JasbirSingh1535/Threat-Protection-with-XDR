@@ -33,5 +33,20 @@ The integration of a Logic App with Threat Protection involves configuring trigg
 
 ### Task 2: Integrate logic app with Microsoft Defender for Cloud for threat notification.
 
-1. Select the Logic app **PostMessageTeams-OnIncident**
+1. Select the Logic app **PostMessageTeams-OnIncident**.
+   
 ![](./media/la1.png)
+
+2.In the left pane under Development tools. Select **Logic app Designer**(1).Search for **Get a notification email when Microsoft Defender for Cloud detects a threat**(2).
+
+![](./media/la2.png)
+
+3.Click on **Continue** to edit the trigger settings.
+
+![](./media/la3.png)
+
+4.Under **Send an Email (V2)** logic app actions. Enter the email Id to which Alert notification should be sent and **Save(3)** the settings.
+
+![](./media/la4.png)
+
+5. 
