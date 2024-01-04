@@ -49,8 +49,13 @@ The integration of a Logic App with Threat Protection involves configuring trigg
 
 ![](./media/la4.png)
 
-5. Navigate to **Overview(1)** and click on **Run(2)** to trigger the logic app. Once we successfully trigger the Logic app we will recieve confirmation(3).
+5. Navigate to **Overview(1)** and click on **Run(2)** to trigger the logic app. Once we successfully trigger the Logic app we will recieve **confirmation(3)**.
 
+![](./media/la5.png)
+
+## Conclusion
+
+When Microsoft Defender for Cloud detects any suspicious activity and threat. it will trigger an event in Azure logic apps which will sent an Email Notification to recipients with threat description.   
 
 ## Review
 In this lab you have completed:
