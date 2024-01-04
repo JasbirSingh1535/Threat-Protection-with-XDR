@@ -45,8 +45,9 @@ The integration of a Logic App with Threat Protection involves configuring trigg
 
 ![](./media/la3.png)
 
-4.Under **Send an Email (V2)** logic app actions. Enter the email Id to which Alert notification should be sent and **Save(3)** the settings.
+4.Under **Send an Email (V2)** logic app actions. Enter the **Email Id(1)** to which Alert notification should be sent and **Save(2)** the settings.
 
 ![](./media/la4.png)
 
-5. 
+5. Navigate to **Overview(1)** and click on **Run(2)** to trigger the logic app. Once we successfully trigger the Logic app we will recieve confirmation(3).
+   
